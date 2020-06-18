@@ -1,2 +1,2 @@
-# basicofm
-2da etapa uso del API de wordpress
+# 2da etapa prueba de basico.fm
+ Uso del API de wordpress
