@@ -10,4 +10,5 @@ Versión 2: Consumir, importar y desplegar del API <br>
 
 Indicaciones. <br>
      Subir ambos archivos a servidor web con soporte para php <br>
-     en el caso de la versión 2, solo cambiar la cadena de conexión hacia la base de datos con los parámetros correctos en la linea 19.
+     en el caso de la versión 2, solo cambiar la cadena de conexión hacia la base de datos <br>
+     con los parámetros correctos en la linea 19.
