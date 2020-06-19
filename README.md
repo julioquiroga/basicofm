@@ -2,8 +2,8 @@
  
 Misión: Consumir, importar y desplegar notas del API de sitio de WP
 
-Versió 1: Consumir y desplegar del API
-         obtiene_notas_api_wp_ver1.php
+Versió 1: Consumir y desplegar del API \n
+         Archivo: obtiene_notas_api_wp_ver1.php
 
 Versión 2: Consumir, importar y desplegar del API
           obtiene_notas_api_wp_ver2.php
